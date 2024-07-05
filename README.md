@@ -1,10 +1,12 @@
-# WaterMark Detector (WMD)
+# Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection (WMD)
 
 <p align="center">
 <img src="assets/thumbnail.png" width=95%>
 <p>
 
 ## Overview
+
+<p align="justify">This is the official implementation of the paper: `<a href="https://arxiv.org/abs/2403.15955">Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection.</a>'</p>
 
 **WaterMark Detector (WMD)** is the first invisible watermark detection method designed for a black-box and annotation-free setting. WMD is capable of detecting arbitrary watermarks within a given dataset using a clean, non-watermarked dataset as a reference. This approach does not rely on specific decoding methods or prior knowledge of the watermarking techniques, making it a versatile solution for detecting invisible watermarks in various scenarios.
 
